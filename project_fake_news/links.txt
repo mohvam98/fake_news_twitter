@@ -1,0 +1,10 @@
+https://github.com/carlosbrown2/fake-news-detection/blob/master/getnews.py
+https://github.com/siddarthhari95/NLP-Fake-News_detection/blob/master/NLPproject_6.ipynb
+https://github.com/kiranrawat/Detecting-Fake-News-On-Social-Media/blob/main/notebooks/data_cleaning.ipynb
+https://github.com/shreyajain4/LIAR-PLUS-Modification/blob/master/LIAR_PLUS%20Modification.ipynb
+https://github.com/vatsalg29/Fake-news-detector/blob/master/fake_news.ipynb
+https://github.com/Tariq60/LIAR-PLUS/tree/master/dataset
+https://github.com/siddarthhari95/NLP-Fake-News_detection/blob/master/NLPproject_6.ipynbs
+https://github.com/vivek1729/fake-news-classifier
+https://github.com/ssunwalka01/LIAR-LIAR-Dataset-FAKE_NEWS_Classification/blob/master/12November2019.ipynb
+

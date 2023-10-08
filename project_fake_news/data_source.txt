@@ -1,0 +1,3 @@
+Kaggle dataset - https://www.kaggle.com/c/fake-news/data
+https://github.com/Aveek-Saha/TwitterFakeNet - Interesting
+https://github.com/KaiDMML/FakeNewsNet/ - fakenewsnet
